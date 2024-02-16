@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AspDotNetCoreHelloWorld
+build_property.ProjectDir = C:\Users\swerd\Desktop\azure\소스\AspDotNetCoreHelloWorld-master\AspDotNetCoreHelloWorld-master\AspDotNetCoreHelloWorld\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
